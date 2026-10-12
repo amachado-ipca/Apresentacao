@@ -1,7 +1,7 @@
-# Olá, eu sou o [Teu Nome]! 👋
+# Olá, eu sou o António ! 👋
 
 ### 🎯 Sobre Mim
-- 🔭 Atualmente estou a trabalhar em **[Projeto Atual / Empresa]**
+- 🔭 Atualmente estou a trabalhar em **[PWI/ IPCA]**
 - 🌱 Estou a aprender **[Tecnologia / Conceito que estás a estudar]**
 - 👯 Procuro colaborar em **[Projetos Open Source / Ideias de Projetos]**
 - 💬 Pergunta-me sobre **[As tuas principais áreas de especialidade]**
