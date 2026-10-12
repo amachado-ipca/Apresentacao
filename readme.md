@@ -7,6 +7,13 @@
 - 💬 Pergunta-me sobre **[As tuas principais áreas de especialidade]**
 - ⚡ Curiosidade: **[Um hobby ou facto divertido sobre ti]**
 
+
+| Coluna 1 | Coluna 2 | Coluna 3 |
+| :--- | :--- | :--- |
+| Item 1.1 | Item 1.2 | Item 1.3 |
+| Item 2.1 | Item 2.2 | Item 2.3 |
+| Item 3.1 | Item 3.2 | Item 3.3 |
+| Item 4.1 | Item 4.2 | Item 4.3 |
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
